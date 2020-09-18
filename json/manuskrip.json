@@ -1,0 +1,27 @@
+{
+  "header": {
+    "doc": "Letter from Batavia Castle",
+    "language": "Malay",
+    "origin": "Indonesia",
+    "Date": 20200202,
+    "Source": "Arkib Indonesia",
+    "Folder": 11,
+    "Identifier": 11
+  },
+  "body": [
+    {
+      "Line": 1,
+      "Original Text": "This",
+      "Translation": "Ini",
+      "Review": 1,
+      "Rev": 1
+    },
+    {
+      "Line": 1,
+      "Original Text": "This",
+      "Translation": "Ini",
+      "Review": 1,
+      "Rev": 1
+    }
+  ]
+}
